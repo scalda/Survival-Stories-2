@@ -1,0 +1,2 @@
+# Survival-Stories-2
+This mod pack is a mix between tech and magic based mod, but with a high focus on the survival part. Configs have been edited to keep exploration both tough and interesting, even late game. The pack is designed for a long term world.  This is the pack used by iskall85 in the Youtube series Survival Stories, season 2, found here: https://www.youtube.com/iskall85 - Play along as we progress in this tough, yet interesting world.
